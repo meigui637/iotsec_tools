@@ -42,6 +42,7 @@ bash
 sudo python3 main.py
 注意：工具中部分功能（如 chroot）需要 root 权限。
 
+
 📂 目录结构
 bash
 复制
@@ -55,6 +56,8 @@ iot_firmware_tool/
 ├── firmwalker_runner.py     # 敏感信息分析模块
 ├── firmwalk_result/         # 分析结果目录
 └── README.md                # 项目说明文档
+
+
 🧠 使用案例
 对某品牌固件进行快速解包和加密识别
 

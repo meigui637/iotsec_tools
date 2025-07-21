@@ -1,6 +1,8 @@
-一款针对 IoT 固件的图形化渗透测试工具，支持解包分析、接口扫描、用户模拟、敏感信息提取、FirmAE交互等多个安全评估功能
+   一款针对 IoT 固件的图形化渗透测试工具，支持解包分析、接口扫描、用户模拟、敏感信息提取、FirmAE交互等多个安全评估功能
 IoT Firmware Pentest Tool
-一款针对 IoT 固件的图形化渗透测试工具，支持解包分析、接口扫描、用户模拟、敏感信息提取、FirmAE交互等多个安全评估功能。
+
+图片
+<img width="1006" height="825" alt="image" src="https://github.com/user-attachments/assets/a38f468a-f43d-468d-bb67-2aa23aba1712" />
 
 
 ✨ 功能特点
@@ -66,3 +68,4 @@ iot_firmware_tool/
 检测未授权访问页面，如 /admin.html、/config.js
 
 利用 Firmwalker 抓取私钥、密码、硬编码账户等
+

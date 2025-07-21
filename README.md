@@ -1,20 +1,18 @@
    一款针对 IoT 固件的图形化渗透测试工具，支持解包分析、接口扫描、用户模拟、敏感信息提取、FirmAE交互等多个安全评估功能
 IoT Firmware Pentest Tool
 
-图片
-<img width="1006" height="825" alt="image" src="https://github.com/user-attachments/assets/a38f468a-f43d-468d-bb67-2aa23aba1712" />
-
-
 ✨ 功能特点
 🧩 固件解包：一键调用 binwalk 解包并自动判断加密情况。
-
+<img width="978" height="204" alt="image" src="https://github.com/user-attachments/assets/81750832-4a1c-4f04-899c-0936f7bc1f3e" />
+<img width="1006" height="825" alt="image" src="https://github.com/user-attachments/assets/a38f468a-f43d-468d-bb67-2aa23aba1712" />
 🌐 未授权接口扫描：输入固件模拟 IP，自动探测 HTML/JS/PHP 等页面是否可直接访问。
-
+<img width="1001" height="819" alt="image" src="https://github.com/user-attachments/assets/e1f1a1c0-0aed-4d16-93cf-a4f780e6fc80" />
 👤 用户模拟：识别架构并自动使用 QEMU + chroot 模拟用户操作，尝试运行 Web 服务。
-
+<img width="1000" height="460" alt="image" src="https://github.com/user-attachments/assets/fd0584c3-cda6-430d-a814-00fb02e3009d" />
 🧠 FirmAE交互：图形化配置并启动 FirmAE 自动化漏洞分析框架。
-
+<img width="1005" height="788" alt="image" src="https://github.com/user-attachments/assets/c332ec54-a75c-4c90-a850-7d03e32653f7" />
 🔍 敏感信息分析：集成 Firmwalker，快速扫描配置、密码、脚本、私钥等敏感内容。
+<img width="1405" height="847" alt="image" src="https://github.com/user-attachments/assets/ea3fe570-a513-41bf-ae8a-6fd703d66461" />
 
 🧼 清屏控制台：每个功能页面支持独立清屏，保持日志整洁。
 
